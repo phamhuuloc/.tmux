@@ -1,0 +1,4 @@
+pane	base	1	1	:*	1	:/home/locpham/.tmux	0	vim	:vim .tmux.conf
+pane	base	1	1	:*	2	:/home/locpham/.tmux	1	fish	:
+window	base	1	:fish	1	:*	e6dd,151x28,0,0{75x28,0,0,0,75x28,76,0,5}	:
+state	base	
